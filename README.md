@@ -1,1 +1,1 @@
-# workshop-viacerta
+# Workshop Viacerta (Primeira Aula de Programação)
